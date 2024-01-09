@@ -1,5 +1,20 @@
 # DISCLAIMER
-These programs are intended for DEMONSTRATION purposes ONLY and SHOULD NOT be employed for academic evaluations. It is important to note that I DISCLAIM ANY RESPONSIBILITIES for any ACADEMIC MISCONDUCT allegations that may arise from their use in such contexts.
+**Usage for DEMONSTRATION purposes ONLY:**
+This software SHOULD NOT be employed for academic evaluations. The author DISCLAIMS ANY RESPONSIBILITY for any ACADEMIC MISCONDUCT allegations that may arise from its use in such contexts.
+
+## Project Overview
+These Java projects showcase various applications, including a basic banking system, a Blackjack game, complex number operations, a digit and modulus counter system, an electrical circuit representation, and modelling resistor behaviour. Each project contains specific functionalities tailored to its domain.
+
+## Technologies Used
+- Java
+
+## How to Run the Application
+1. Clone the repository to your local machine.
+2. Open the project in your preferred Java IDE.
+3. Build and run the project.
+
+## Contribution Guidelines
+We welcome contributions and improvements to any of these projects. If you have any ideas or find issues, feel free to open an issue or submit a pull request.
 
 # Bank-Account
 This project consists of Java classes, "Account" and "Bank," which create a basic banking system. The "Account" class handles individual accounts with deposit and withdrawal methods, while the "Bank" class manages multiple accounts and checks account number existence. The "MainAccount" and "MainBank" classes demonstrate these functionalities.
